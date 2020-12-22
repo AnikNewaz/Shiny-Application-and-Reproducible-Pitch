@@ -9,4 +9,4 @@ You can go to: https://anstudio.shinyapps.io/mpg_prediction/ and insert the foll
 4. Weight of the car
 
 
-The presentation can be found here: https://rpubs.com/anik_newaz/ReproduciblePitchPresentation
+The presentation can be found here: https://rpubs.com/anik_newaz/pres
